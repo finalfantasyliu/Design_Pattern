@@ -1,0 +1,3 @@
+/Users/finalfantasyliu/Desktop/design_pattern/Interface_Segregation_Principle/cmake-build-debug/CMakeFiles/Interface_Segregation_Principle.dir
+/Users/finalfantasyliu/Desktop/design_pattern/Interface_Segregation_Principle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/finalfantasyliu/Desktop/design_pattern/Interface_Segregation_Principle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

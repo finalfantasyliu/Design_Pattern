@@ -1,0 +1,9 @@
+# ninja log v5
+1	308	1715153009830846806	CMakeFiles/Dependency_Inversion_Principle.dir/main.cpp.o	756b25b8df9c90e5
+310	338	1715153009862197518	Dependency_Inversion_Principle	2619f9d40c4bb83
+3	289	1715153038770455535	CMakeFiles/Dependency_Inversion_Principle.dir/main.cpp.o	756b25b8df9c90e5
+289	316	1715153038799054897	Dependency_Inversion_Principle	2619f9d40c4bb83
+3	292	1715153116129020475	CMakeFiles/Dependency_Inversion_Principle.dir/main.cpp.o	756b25b8df9c90e5
+292	318	1715153116156013685	Dependency_Inversion_Principle	2619f9d40c4bb83
+3	289	1715153123011938009	CMakeFiles/Dependency_Inversion_Principle.dir/main.cpp.o	756b25b8df9c90e5
+289	315	1715153123039602838	Dependency_Inversion_Principle	2619f9d40c4bb83
